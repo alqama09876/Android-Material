@@ -12,7 +12,7 @@
         android:id="@+id/btn_explicit"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="#2196F3"
+        android:background="#FF4E8A"
         android:padding="10dp"
         android:text="@string/explicit"
         android:textColor="@color/white"
