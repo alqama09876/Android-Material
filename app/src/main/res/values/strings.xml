@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Implicit and Explicit Intents</string>
+    <string name="login">Login</string>
+    <string name="welcome_to_my_app">Welcome to my app</string>
+    <string name="back">Back</string>
+    <string name="implicit">Implicit Intent</string>
+    <string name="explicit">Explicit Intent</string>
+    <string name="implicitWork">Implicit Intent Work</string>
+    <string name="search">Search</string>
+    <string name="go">GO</string>
+</resources>
