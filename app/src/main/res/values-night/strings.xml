@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Name</string>
+    <string name="fullname">Full Name</string>
+    <string name="submit">Submit</string>
+    <string name="personalInfo">Personal Information</string>
+    <string name="email">Email Address</string>
+    <string name="phone">Phone Number</string>
+    <string name="back">Back</string>
+    <string name="yourData">Your Data</string>
+</resources>
