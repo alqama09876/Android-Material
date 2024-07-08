@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Passing Data from Activity to Fragment Using Intent and Bundle</string>
+    <string name="senddata">Send Data</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
