@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Recycler_View</string>
+    <string name="app_name1">Recycler_View_Static</string>
+    <string name="todo">TODO</string>
+    <string name="back">back</string>
+</resources>
