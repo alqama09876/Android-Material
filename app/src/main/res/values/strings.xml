@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Navigation Drawer with Fragment</string>
+    <string name="Home">Home</string>
+    <string name="Status">Status</string>
+    <string name="Call">Call</string>
+    <string name="call">Call Fragment</string>
+    <string name="home">Home Fragment</string>
+    <string name="status">Status Fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
