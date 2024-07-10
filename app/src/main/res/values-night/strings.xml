@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="status">Status Fragment</string>
+    <string name="call">Call Fragment</string>
+    <string name="home">Home Fragment</string>
+    <string name="Call">Call</string>
+    <string name="Status">Status</string>
+    <string name="Home">Home</string>
+</resources>
