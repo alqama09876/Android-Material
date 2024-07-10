@@ -19,6 +19,8 @@
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize"
         android:layout_alignParentBottom="true"
+        app:itemIconTint="#C6C6C6"
+        app:itemTextColor="#C6C6C6"
         app:menu="@menu/menu"
         android:background="@color/white" />
 
