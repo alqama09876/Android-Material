@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408458995111",
+    "project_id": "login-and-signup-b7d91",
+    "storage_bucket": "login-and-signup-b7d91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408458995111:android:bf93fe79fd178b7427c282",
+        "android_client_info": {
+          "package_name": "com.example.loginandsignupusingfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnV0xECNDzqnL6kNU1JYo3w6ddhsbnHgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
