@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547700247607",
+    "project_id": "forget-password-98b55",
+    "storage_bucket": "forget-password-98b55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547700247607:android:bf08eb5877226c5dcc03b2",
+        "android_client_info": {
+          "package_name": "com.example.forgetpasswordusingfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEETOHAku_-qIikHH_uY8EJfR_LHvEB5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
