@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845612315330",
+    "project_id": "store-data-using-firebas-fcb0c",
+    "storage_bucket": "store-data-using-firebas-fcb0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845612315330:android:e4f8b41e636e87a31a815b",
+        "android_client_info": {
+          "package_name": "com.example.storedatausingfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0iicBAEVPKL1FLcQIFvnOY5QZXbWEzv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
