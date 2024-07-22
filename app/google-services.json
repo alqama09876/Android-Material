@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329422665324",
+    "project_id": "store-image-data-using-storage",
+    "storage_bucket": "store-image-data-using-storage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329422665324:android:0745bafde58c537a77ca49",
+        "android_client_info": {
+          "package_name": "com.example.storeimagedatausingfirbasestorage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJMFLJmcmm9hqXa-IjuiKf7ngHQZktwTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
