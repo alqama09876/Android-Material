@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fetch Data Using Cloud Firestore</string>
+    <string name="fetch_data_using_cloud_firestore">Fetch Data Using Cloud Firestore</string>
+    <string name="back">Back</string>
+</resources>
