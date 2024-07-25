@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1015516633295",
+    "project_id": "push-notification-506fb",
+    "storage_bucket": "push-notification-506fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015516633295:android:32d604e00fe803016effba",
+        "android_client_info": {
+          "package_name": "com.example.pushnotificationusingcloudmessaging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALujeY9J8yOp5UPv9cyeAq-sGLKSt_4Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
